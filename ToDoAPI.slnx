@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="cbc9bec3-8bc1-4a7d-8139-f1a463efc0ea" />
+  <Project Path="ApplicationTestes/ApplicationTestes.csproj" Id="a14a8acd-c253-49d4-b20b-3e7206806597" />
+  <Project Path="Domain/Domain.csproj" Id="b9fe1e59-ead6-4f34-ac77-bcb0f80264da" />
+  <Project Path="DomainTestes/DomainTestes.csproj" Id="144dc792-0d8f-424f-8aa4-740b730bc425" />
+  <Project Path="Frontend/Frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="0ef3c4f9-375b-4b88-9305-fb094219bb8d" />
+  <Project Path="ToDoAPI/WebAPI.csproj" />
+</Solution>
